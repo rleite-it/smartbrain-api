@@ -1,0 +1,25 @@
+{
+  "name": "facerecognitionbrain-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rleite-it/facerecognitionbrain-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rleite-it/facerecognitionbrain-api/issues"
+  },
+  "homepage": "https://github.com/rleite-it/facerecognitionbrain-api#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
