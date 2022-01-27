@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/rleite-it/facerecognitionbrain-api#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
     "express": "^4.17.2"
   },
   "devDependencies": {
